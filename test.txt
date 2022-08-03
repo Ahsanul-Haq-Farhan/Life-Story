@@ -4,6 +4,10 @@ I have completed my J.S.C
 I am a student
  
 hi
+<<<<<<< HEAD
 hi baba
  
+=======
+hi 
+>>>>>>> feature1
 
